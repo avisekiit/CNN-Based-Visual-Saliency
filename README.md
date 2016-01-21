@@ -1,7 +1,7 @@
 # CNN-Based-Visual-Saliency  
 The projects envisions to use CNNs for visual saliency detection task  
 
-Short description of the codes:
+Short description of the codes::  
 a. map_create.m :: creates saliency maps on ImageNet using Graph Based Visual Saliency Model whose library is under the gbvs folder  
 b. saliency_generate.sh :: a wrapper to call map_create.m with proper arguements  
 c.startup.m :: file required to include the gbvs library path in Matlab's search path  
