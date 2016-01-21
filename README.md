@@ -1,5 +1,5 @@
-# CNN-Based-Visual-Saliency
-The projects envisions to use CNNs for visual saliency detection task
+# CNN-Based-Visual-Saliency  
+The projects envisions to use CNNs for visual saliency detection task  
 
 Short description of the codes:
 a. map_create.m :: creates saliency maps on ImageNet using Graph Based Visual Saliency Model whose library is under the gbvs folder  
